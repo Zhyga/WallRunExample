@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Zhyga\\Documents\\Unreal Projects\\WallRun\\Source\\WallRun\\WallRun.Build.cs",
+		"C:\\Users\\Zhyga\\Documents\\Unreal Projects\\WallRun\\Source\\WallRun.Target.cs",
+		"C:\\Users\\Zhyga\\Documents\\Unreal Projects\\WallRun\\Source\\WallRunEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.1"
+}
